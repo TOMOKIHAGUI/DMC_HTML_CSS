@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: auto;
+    box-sizing: border-box;
+}
+
+.title {
+    color: orange;
+    margin: 25px 0;
+}
+
+.contents {
+    color: black;
+    margin: 5px 0;
+}
+
+.body {
+    margin: 5px 0;
+}
+
+.URL {
+    margin: 5px 0;
+}
